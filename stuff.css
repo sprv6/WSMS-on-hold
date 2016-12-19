@@ -12,6 +12,7 @@ h1 {
 }
 
 p {
+  color:black;
   max-width: 65%;
   min-width: 500px;
 }
